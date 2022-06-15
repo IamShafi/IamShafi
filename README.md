@@ -9,7 +9,7 @@
  
 <table>
   <tr>
-    <td><img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/></td>
+    <td><img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="" width=450/></td>
     <td>
       <ul>
         <li><h2 align="left">I am <a href="https://www.linkedin.com/in/iamshafi" target="_blank" rel="noopener noreferrer">Sirajus Salekin Shafi</a> </li>
