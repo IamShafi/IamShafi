@@ -32,8 +32,75 @@
   
   
 ### My Stacks
-<img src="https://img.shields.io/badge/Languages-151515?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-cpp](https://img.shields.io/badge/c%2B%2B-151515?style=for-the-badge&logo=c%2B%2B&logoColor=79740e&labelColor=151515)![badge-python](https://img.shields.io/badge/python-151515?style=for-the-badge&logo=python&logoColor=79740e&labelColor=151515)![badge-java](https://img.shields.io/badge/java-151515?style=for-the-badge&logo=java&logoColor=79740e&labelColor=151515) <br/>
-<img src="https://img.shields.io/badge/Database-151515?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql&logoColor=79740e&labelColor=151515)
+
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://img.icons8.com/fluency/48/undefined/python.png" /> 
+    <img width="30px" src="https://img.icons8.com/color/48/undefined/c-sharp-logo-2.png" /> 
+    <img width="30px" src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png" /> 
+    <img width="30px" src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png" /> 
+  </kbd>
+  
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img width="30px" src="https://img.icons8.com/officel/80/undefined/php-logo.png" />
+  </kbd>
+  
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  
+  <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://img.icons8.com/color/96/undefined/mysql-logo.png" />
+    <img width="30px" src="https://img.icons8.com/color/96/undefined/firebase.png" />
+  </kbd>
+  <br>
+  <br>
+  
+  <kbd>
+    <kbd>Data Science & AI</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  </kbd>
+ 
+  <kbd>
+    <kbd>System, Networking & Deployment</kbd>
+    <br>
+    <br>
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" /> -->
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> -->
+  </kbd>
+
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  </kbd>
+</p>
+  
+ 
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
