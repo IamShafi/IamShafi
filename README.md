@@ -17,7 +17,7 @@
         <li><h2 align="left">I am <a href="https://www.linkedin.com/in/iamshafi" target="_blank" rel="noopener noreferrer">Sirajus Salekin Shafi</a> </li>
         <li>🎓 I'm a Computer Science student (graduating in 2023) </li>
         <li>💻 Studying at <a href="https://www.aust.edu"> [AUST] </a></li>
-        <li>🌱 I’m currently developing .NET Core projects </li>
+        <li>🌱 I’m currently developing my 3rd year 2nd semester projects </li>
       </ul>
       <h4>Connect with me:</h4>
       <a href="salekin68@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
