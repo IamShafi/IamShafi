@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/IamShafi)
+
 ### Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 <!--
 **IamShafi/IamShafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
