@@ -20,9 +20,6 @@
         <li>🌱 I’m currently developing my 3rd year 2nd semester projects </li>
       </ul>
       <h4>Connect with me:</h4>
-      <a href="salekin68@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/new-post.png"/></a>
-      <a href="https://github.com/IamShafi"><img src="https://img.icons8.com/dusk/40/000000/internet--v1.png"/></a>
-      <a href="#"><img src="https://img.icons8.com/dusk/40/000000/twitter-circled.png"/></a>
       <a href="https://www.linkedin.com/in/iamshafi"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
     </td>
   </tr>
