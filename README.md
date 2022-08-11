@@ -47,7 +47,7 @@
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
     <img width="30px" src="https://img.icons8.com/officel/80/undefined/php-logo.png" />
   </kbd>
   
@@ -59,6 +59,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://img.icons8.com/office/40/228BE6/react.png"/>
   </kbd>
   
   <kbd>
@@ -66,7 +67,7 @@
     <br>
     <br>
     <img width="30px" src="https://img.icons8.com/color/96/undefined/mysql-logo.png" />
-    <img width="30px" src="https://img.icons8.com/color/96/undefined/firebase.png" />
+    <img width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   </kbd>
   <br>
   <br>
