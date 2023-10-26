@@ -17,7 +17,7 @@
         <li><h2 align="left">I am <a href="https://www.linkedin.com/in/iamshafi" target="_blank" rel="noopener noreferrer">Sirajus Salekin Shafi</a> </li>
         <li>🎓 I'm a Computer Science student (graduating in 2023) </li>
         <li>💻 Studying at <a href="https://www.aust.edu"> [AUST] </a></li>
-        <li>🌱  </li>
+        <li>🌱 Working on MERN projects </li>
       </ul>
       <h4>Connect with me:</h4>
       <a href="https://www.linkedin.com/in/iamshafi"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
@@ -32,74 +32,29 @@
   
 ### My Stacks
 
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Programming Languages</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://img.icons8.com/fluency/48/undefined/python.png" /> 
-    <img width="30px" src="https://img.icons8.com/color/48/undefined/c-sharp-logo-2.png" /> 
-    <img width="30px" src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png" /> 
-    <img width="30px" src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png" /> 
-  </kbd>
-  
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img width="30px" src="https://img.icons8.com/officel/80/undefined/php-logo.png" />
-  </kbd>
-  
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="30px" src="https://img.icons8.com/office/40/228BE6/react.png"/>
-  </kbd>
-  
-  <kbd>
-    <kbd>Database</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://img.icons8.com/color/96/undefined/mysql-logo.png" />
-    <img width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  </kbd>
-  <br>
-  <br>
-  
-  <kbd>
-    <kbd>Data Science & AI</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  </kbd>
- 
-  <kbd>
-    <kbd>System, Networking & Deployment</kbd>
-    <br>
-    <br>
-<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" /> -->
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<!--     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /> -->
-  </kbd>
 
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  </kbd>
-</p>
-  
+# 💻 Tech Stack:
+
+<br>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+
+<br>
+
+![ReactJs](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJs](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Tailwind-CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<br>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+<br>
+
+<br> 
+
+
  
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
