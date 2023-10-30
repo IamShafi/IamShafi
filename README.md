@@ -15,8 +15,8 @@
     <td>
       <ul>
         <li><h2 align="left">I am <a href="https://www.linkedin.com/in/iamshafi" target="_blank" rel="noopener noreferrer">Sirajus Salekin Shafi</a> </li>
-        <li>🎓 I'm a Computer Science student (graduating in 2023) </li>
-        <li>💻 Studying at <a href="https://www.aust.edu"> [AUST] </a></li>
+        <li>🎓 I'm a Computer Science Graduate </li>
+        <li>💻 Studied at <a href="https://www.aust.edu"> [AUST] </a></li>
         <li>🌱 Working on MERN projects </li>
       </ul>
       <h4>Connect with me:</h4>
