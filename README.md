@@ -29,10 +29,7 @@
   <tr>  </tr>
 </table>
 
-### My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IamShafi&show_icons=true&count_private=true&theme=dark" alt="IamShafi" />
-  
-  
+
 ### My Stacks
 
 
