@@ -2,7 +2,7 @@
 
 ### Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
-I'm a flexible and eager learner wanting to switch to front-end web development. Although I'm new to the field, I'm passionate about making awesome and responsive websites using modern JavaScript. I might not have a ton of experience, but I make up for it with my enthusiasm and dedication to learning. I'm a quick learner and a team player, confident that my unique skills can be a valuable addition to any development team. I'm excited to tackle new challenges and work on projects that matter. I'm looking for a chance to join a company where I can grow as a front-end developer, apply my skills, and make a real impact.
+I am a passionate and quick learner, motivated to transition into front-end web development. Despite my limited experience, I bring dedication and a collaborative spirit to any team. I am actively seeking a role in a company where I can grow as a front-end developer, apply my skills, and make a meaningful impact.
 
 <!--
 **IamShafi/IamShafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
