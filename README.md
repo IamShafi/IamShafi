@@ -2,7 +2,7 @@
 
 ### Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
-I am a passionate and quick learner, motivated to transition into front-end web development. Despite my limited experience, I bring dedication and a collaborative spirit to any team. I am actively seeking a role in a company where I can grow as a front-end developer, apply my skills, and make a meaningful impact.
+I am a passionate and quick learner, motivated to transition into front-end web development. I am actively seeking a role in a company where I can grow as a front-end developer, apply my skills, and make a meaningful impact.
 
 <!--
 **IamShafi/IamShafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
