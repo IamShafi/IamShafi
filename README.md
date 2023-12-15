@@ -20,7 +20,7 @@ I am a passionate and quick learner, motivated to transition into front-end web 
         <li><h2 align="left">I am <a href="https://www.linkedin.com/in/iamshafi" target="_blank" rel="noopener noreferrer">Sirajus Salekin Shafi</a> </li>
         <li>🎓 I'm a Computer Science Graduate </li>
         <li>💻 Studied at <a href="https://www.aust.edu"> [AUST] </a></li>
-        <li>🌱 Working on MERN projects </li>
+        <li>🌱 Front-End Developer </li>
       </ul>
       <h4>Connect with me:</h4>
       <a href="https://www.linkedin.com/in/iamshafi"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
