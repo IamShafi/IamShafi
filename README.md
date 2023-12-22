@@ -2,7 +2,7 @@
 
 ### Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
-I am a passionate and quick learner, motivated to transition into front-end web development. I am actively seeking a role in a company where I can grow as a front-end developer, apply my skills, and make a meaningful impact.
+
 
 <!--
 **IamShafi/IamShafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,6 @@ I am a passionate and quick learner, motivated to transition into front-end web 
 -->
 
 
-  
  
 <table>
   <tr>
@@ -53,6 +52,43 @@ I am a passionate and quick learner, motivated to transition into front-end web 
 <br> 
 
 
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=C7F7C8&center=true&vCenter=true&random=false&width=435&lines=I+am+a+passionate+and+quick+learner%2C+motivated+to+transition+into+front-end+web+development.+I+am+actively+seeking+a+role+in+a+company+where+I+can+grow+as+a+front-end+developer%2C+apply+my+skills%2C+and+make+a+meaningful+impact.)](https://git.io/typing-svg)
+
+
+
+</div>
+
+## Github Stats
+<div align="center">
+    
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamShafi&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamShafi&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamShafi&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamShafi&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamShafi&theme=aura&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahariar-shibli&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahariar-shibli&theme=dracula&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahariar-shibli&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahariar-shibli&theme=apprentice)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shahariar-shibli&theme=dracula&card_width=700)](https://git.io/streak-stats)
+
+</div>
+
+## Profile Views
+<div align="center">
+    
+![:shahariar-shibli](https://count.getloli.com/get/@:shahariar-shibli?theme=asoul)
+
+</div>
  
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
