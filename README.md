@@ -29,10 +29,9 @@
 </table>
 
 
-### My Stacks
 
 
-# 💻 Tech Stack:
+# 💻 My Tech Stack:
 
 <br>
 
@@ -41,17 +40,17 @@
 
 ![ReactJs](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJs](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Tailwind-CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+ <img src="https://img.shields.io/badge/-React_Router-D0051B?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge">
 <br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
 <br>
-
-<br> 
-
-
+<img src="https://img.shields.io/badge/-Git-F44727?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+<img src="https://img.shields.io/badge/-GitHub-BABBB9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+<img src="https://img.shields.io/badge/-VS_Code-317AC6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge">
+<img src="https://img.shields.io/badge/-Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
+ <img src="https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Vercel Badge">
 
 <div align="center">
 
