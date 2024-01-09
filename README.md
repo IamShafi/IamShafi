@@ -1,33 +1,34 @@
 
 
-### Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+### Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" /> <h2 align="left">I am <a href="https://www.linkedin.com/in/iamshafi" target="_blank" rel="noopener noreferrer">Sirajus Salekin Shafi</a>
 
 
 <!--
 **IamShafi/IamShafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 -->
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
 
+- 🎓 I'm a Computer Science Graduate from **<a href="https://www.aust.edu"> [AUST] </a>**.
+  
+- 🔭 I'm passionate about **web programming**.
 
- 
-<table>
-  <tr>
-    <td><img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="" width=450/></td>
-    <td>
-      <ul>
-        <li><h2 align="left">I am <a href="https://www.linkedin.com/in/iamshafi" target="_blank" rel="noopener noreferrer">Sirajus Salekin Shafi</a> </li>
-        <li>🎓 I'm a Computer Science Graduate </li>
-        <li>💻 Studied at <a href="https://www.aust.edu"> [AUST] </a></li>
-        <li>🌱 Front-End Developer </li>
-      </ul>
-      <h4>Connect with me:</h4>
-      <a href="https://www.linkedin.com/in/iamshafi"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
+- 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using **C++**.
+
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/IamShafi)!
+
+- 📫 How to reach me: **salekin68@gmail.com**.<br> <a href="https://www.linkedin.com/in/iamshafi"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
       <a href="mailto:salekin68@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/gmail.png"/></a>
-         
-    
-  </tr>
-  <tr>  </tr>
-</table>
+
+- 👯 I’m looking to collaborate on **developing new open-source projects**.
+
+
+
+
+<br>
+<br>
 
 
 [![Custom Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Creating%20a%20website%20is%20akin%20to%20crafting%20in%20games%2C%20offering%20the%20addictive%20joy%20of%20building%20your%20own%20world%2C%20pixel%20by%20pixel%2C%20through%20code.)](https://github.com/piyushsuthar/github-readme-quotes)
