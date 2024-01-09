@@ -3,7 +3,6 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
 
-
 <!--
 **IamShafi/IamShafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
@@ -23,10 +22,16 @@
       </ul>
       <h4>Connect with me:</h4>
       <a href="https://www.linkedin.com/in/iamshafi"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
-    </td>
+      <a href="mailto:salekin68@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/gmail.png"/></a>
+         
+    
   </tr>
   <tr>  </tr>
 </table>
+
+
+[![Custom Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Creating%20a%20website%20is%20akin%20to%20crafting%20in%20games%2C%20offering%20the%20addictive%20joy%20of%20building%20your%20own%20world%2C%20pixel%20by%20pixel%2C%20through%20code.)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 
