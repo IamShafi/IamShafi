@@ -48,20 +48,18 @@
 ![Tailwind-CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  <img src="https://img.shields.io/badge/-React_Router-D0051B?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge">
 <br>
+<img src="https://img.shields.io/badge/ZOD-0086b3?style=for-the-badge&logo=zod&logoColor=white" alt="ZOD Badge"> <img src="https://img.shields.io/badge/Shadcn-FF4500?style=for-the-badge&logo=shadcn&logoColor=white" alt="Shadcn Badge"> <img src="https://img.shields.io/badge/React_Hook_Form-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Hook Form Badge"> <img src="https://img.shields.io/badge/Zustand-FFD700?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand Badge">
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-<br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"> <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js Badge">
+
+<div align="">
+
 <img src="https://img.shields.io/badge/-Git-F44727?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
 <img src="https://img.shields.io/badge/-GitHub-BABBB9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
 <img src="https://img.shields.io/badge/-VS_Code-317AC6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge">
 <img src="https://img.shields.io/badge/-Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge">
- <img src="https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Vercel Badge">
-
-<div align="center">
-
-
-
+<img src="https://img.shields.io/badge/-Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" alt="Vercel Badge">
 
 </div>
 
