@@ -15,14 +15,10 @@
   
 - 🔭 I'm passionate about **web programming**.
 
-- 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using **C++**.
+- 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using **C++**, **Python**.
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/IamShafi)!
 
-- 📫 How to reach me: **salekin68@gmail.com**.<br> <a href="https://www.linkedin.com/in/iamshafi"><img src="https://img.icons8.com/dusk/40/000000/linkedin.png"/></a>
-      <a href="mailto:salekin68@gmail.com"><img src="https://img.icons8.com/dusk/40/000000/gmail.png"/></a>
-
-- 👯 I’m looking to collaborate on **developing new open-source projects**.
+- 👯 Pursuing full-time remote opportunities in **frontend development**.
 
 
 
@@ -36,6 +32,13 @@
 
 
 
+<div align = "center">
+    
+[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:salekin68@gmail.com)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/IamShafi)](https://www.frontendmentor.io/profile/MelvinAguilar)&nbsp;
+[![Linkedin: Melvin Aguilar](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melvinaguilar)](https://www.linkedin.com/in/iamshafi/)
+<br>
+</div>
 
 # 💻 My Tech Stack:
 
