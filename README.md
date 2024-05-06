@@ -48,6 +48,8 @@
 <br>
 
 ![ReactJs](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NextJs](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![React Query](https://img.shields.io/badge/React%20Query-%235965FF.svg?style=for-the-badge&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23161717.svg?style=for-the-badge&logo=zustand&logoColor=white)
 ![Tailwind-CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  <img src="https://img.shields.io/badge/-React_Router-D0051B?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge">
 <br>
