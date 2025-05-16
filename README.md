@@ -15,10 +15,6 @@
   
 - 🔭 I'm passionate about **web programming**.
 
-- 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using **C++**, **Python**.
-
-
-- 👯 Pursuing full-time remote opportunities in **frontend development**.
 
 
 
